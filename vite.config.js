@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import path from 'path'
 
 export default defineConfig({
-  base: '/movie-finder/',
+  base: '/YOUR_PROJECT_NAME/',
   build: {
     outDir: 'docs',
   },
